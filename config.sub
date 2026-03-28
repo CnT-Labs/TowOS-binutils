@@ -2127,6 +2127,7 @@ case $os in
 	| toppers* \
 	| tops10* \
 	| tops20* \
+	| towos* \
 	| tpf* \
 	| tvos* \
 	| twizzler* \
